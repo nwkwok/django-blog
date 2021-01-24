@@ -144,7 +144,6 @@ cython_debug/
 
 
 # other ignores
-*settings.py
 *DS_Store
 *.idea/
 
